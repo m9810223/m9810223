@@ -24,10 +24,6 @@
             <td valign="top"><img
                     src="https://github-readme-stats.vercel.app/api/pin/?username=m9810223&repo=pymatrix" /></td>
         </tr>
-        <tr>
-            <td valign="top"><img
-                    src="https://github-readme-stats.vercel.app/api/wakatime?username=michaelh&langs_count=5" /></td>
-        </tr>
     </tbody>
 </table>
 
