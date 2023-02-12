@@ -1,11 +1,11 @@
 <table>
     <tbody>
-        <tr>
+        <!-- <tr>
             <td colspan="2" valign="top">
                 <img
                     src="https://activity-graph.herokuapp.com/graph?username=m9810223&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true" />
             </td>
-        </tr>
+        </tr> -->
         <tr>
             <td valign="top">
                 <img
