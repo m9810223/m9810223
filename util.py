@@ -32,13 +32,13 @@ def convert(user_repo: str):
 
 def main():
     contributions = [
+        'beancount/fava',
         'encode/httpcore',
         'microsoft/playwright-python',
         'microsoft/playwright-pytest',
         'pydantic/pydantic-settings',
         'psf/cachecontrol',
         'pdm-project/pdm',
-        # 'beancount/fava',
     ]
     for x in contributions:
         print(convert(x))

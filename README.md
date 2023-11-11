@@ -42,6 +42,7 @@
 
 ## Contributions
 
+- [![beancount/fava](https://img.shields.io/github/issues-search/beancount/fava?label=beancount/fava&query=author%3Am9810223%20is%3Amerged)](https://github.com/beancount/fava/pulls?q=author%3Am9810223%20is%3Amerged)
 - [![encode/httpcore](https://img.shields.io/github/issues-search/encode/httpcore?label=encode/httpcore&query=author%3Am9810223%20is%3Amerged)](https://github.com/encode/httpcore/pulls?q=author%3Am9810223%20is%3Amerged)
 - [![microsoft/playwright-python](https://img.shields.io/github/issues-search/microsoft/playwright-python?label=microsoft/playwright-python&query=author%3Am9810223%20is%3Amerged)](https://github.com/microsoft/playwright-python/pulls?q=author%3Am9810223%20is%3Amerged)
 - [![microsoft/playwright-pytest](https://img.shields.io/github/issues-search/microsoft/playwright-pytest?label=microsoft/playwright-pytest&query=author%3Am9810223%20is%3Amerged)](https://github.com/microsoft/playwright-pytest/pulls?q=author%3Am9810223%20is%3Amerged)
