@@ -28,10 +28,6 @@
 </tbody>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m9810223&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
-<img src="https://github-readme-stats.vercel.app/api?username=m9810223&show_icons=true&icon_color=E6DB74&border_color=272822&bg_color=272822&title_color=F92672&text_color=AE81FF&count_private=true" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m9810223&theme=github_dark" />
-
 ![](https://komarev.com/ghpvc/?username=m9810223&color=orange&style=for-the-badge)
 
 <p align="left">
@@ -64,3 +60,7 @@
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 
 </p>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=m9810223&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+<img src="https://github-readme-stats.vercel.app/api?username=m9810223&show_icons=true&icon_color=E6DB74&border_color=272822&bg_color=272822&title_color=F92672&text_color=AE81FF&count_private=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m9810223&theme=github_dark" />
