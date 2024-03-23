@@ -32,6 +32,7 @@ def convert(user_repo: str):
 
 def main():
     contributions = [
+        'tiangolo/typer',
         'beancount/fava',
         'encode/httpcore',
         'microsoft/playwright-python',
