@@ -15,6 +15,7 @@
 
 ## Contributions
 
+- [![rabbitmq/tls-gen](https://img.shields.io/github/issues-search/rabbitmq/tls-gen?label=rabbitmq/tls-gen&query=author%3Am9810223%20is%3Amerged)](https://github.com/rabbitmq/tls-gen/pulls?q=author%3Am9810223%20is%3Amerged)
 - [![tiangolo/typer](https://img.shields.io/github/issues-search/tiangolo/typer?label=tiangolo/typer&query=author%3Am9810223%20is%3Amerged)](https://github.com/tiangolo/typer/pulls?q=author%3Am9810223%20is%3Amerged)
 - [![beancount/fava](https://img.shields.io/github/issues-search/beancount/fava?label=beancount/fava&query=author%3Am9810223%20is%3Amerged)](https://github.com/beancount/fava/pulls?q=author%3Am9810223%20is%3Amerged)
 - [![encode/httpcore](https://img.shields.io/github/issues-search/encode/httpcore?label=encode/httpcore&query=author%3Am9810223%20is%3Amerged)](https://github.com/encode/httpcore/pulls?q=author%3Am9810223%20is%3Amerged)

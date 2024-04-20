@@ -32,6 +32,7 @@ def convert(user_repo: str):
 
 def main():
     contributions = [
+        'rabbitmq/tls-gen',
         'tiangolo/typer',
         'beancount/fava',
         'encode/httpcore',
