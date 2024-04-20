@@ -21,7 +21,7 @@ def md_li(content: str):
 
 def convert(user_repo: str):
     pathname = f'{SH_GH}/issues-search/{user_repo}'
-    search = f'?label={quote(user_repo)}&query={QUERY}'
+    search = f'?style=for-the-badge&label={quote(user_repo)}&query={QUERY}'
     src = f'{pathname}{search}'
     img = md_img(src, alt=user_repo)
     href = f'{GH}/{user_repo}/pulls?q={QUERY}'
