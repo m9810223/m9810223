@@ -2,7 +2,7 @@
 
 - [![rabbitmq/tls-gen](https://img.shields.io/github/issues-search/rabbitmq/tls-gen?style=for-the-badge&label=rabbitmq/tls-gen&query=author%3Am9810223%20is%3Amerged)](https://github.com/rabbitmq/tls-gen/pulls?q=author%3Am9810223%20is%3Amerged)
 - [![rabbitmq/rabbitmq-website](https://img.shields.io/github/issues-search/rabbitmq/rabbitmq-website?style=for-the-badge&label=rabbitmq/rabbitmq-website&query=author%3Am9810223%20is%3Amerged)](https://github.com/rabbitmq/rabbitmq-website/pulls?q=author%3Am9810223%20is%3Amerged)
-- [![tiangolo/typer](https://img.shields.io/github/issues-search/tiangolo/typer?style=for-the-badge&label=tiangolo/typer&query=author%3Am9810223%20is%3Amerged)](https://github.com/tiangolo/typer/pulls?q=author%3Am9810223%20is%3Amerged)
+- [![fastapi/typer](https://img.shields.io/github/issues-search/fastapi/typer?style=for-the-badge&label=fastapi/typer&query=author%3Am9810223%20is%3Amerged)](https://github.com/fastapi/typer/pulls?q=author%3Am9810223%20is%3Amerged)
 - [![beancount/fava](https://img.shields.io/github/issues-search/beancount/fava?style=for-the-badge&label=beancount/fava&query=author%3Am9810223%20is%3Amerged)](https://github.com/beancount/fava/pulls?q=author%3Am9810223%20is%3Amerged)
 - [![encode/httpcore](https://img.shields.io/github/issues-search/encode/httpcore?style=for-the-badge&label=encode/httpcore&query=author%3Am9810223%20is%3Amerged)](https://github.com/encode/httpcore/pulls?q=author%3Am9810223%20is%3Amerged)
 - [![microsoft/playwright-python](https://img.shields.io/github/issues-search/microsoft/playwright-python?style=for-the-badge&label=microsoft/playwright-python&query=author%3Am9810223%20is%3Amerged)](https://github.com/microsoft/playwright-python/pulls?q=author%3Am9810223%20is%3Amerged)
