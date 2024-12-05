@@ -34,7 +34,7 @@ def main():
     contributions = [
         'rabbitmq/tls-gen',
         'rabbitmq/rabbitmq-website',
-        'tiangolo/typer',
+        'fastapi/typer',
         'beancount/fava',
         'encode/httpcore',
         'microsoft/playwright-python',
