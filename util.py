@@ -26,25 +26,34 @@ def convert(user_repo: str):
     img = md_img(src, alt=user_repo)
     href = f'{GH}/{user_repo}/pulls?q={QUERY}'
     a = md_a(href, text=img)
+    return a
     li = md_li(a)
     return li
 
 
 def main():
     contributions = [
-        'rabbitmq/tls-gen',
-        'rabbitmq/rabbitmq-website',
-        'fastapi/typer',
-        'beancount/fava',
-        'encode/httpcore',
         'microsoft/playwright-python',
         'microsoft/playwright-pytest',
-        'pydantic/pydantic-settings',
+        None,
+        'fastapi/typer',
+        'encode/httpcore',
         'psf/cachecontrol',
+        None,
+        'pydantic/pydantic-settings',
         'pdm-project/pdm',
+        None,
+        'rabbitmq/tls-gen',
+        'rabbitmq/rabbitmq-website',
+        None,
+        'likec4/likec4',
+        'beancount/fava',
     ]
     for x in contributions:
-        print(convert(x))
+        if x is None:
+            print()
+        else:
+            print(convert(x))
 
 
 if __name__ == '__main__':
