@@ -50,10 +50,10 @@ def main():
         'beancount/fava',
     ]
     for x in contributions:
-        if x is None:
-            print()
-        else:
+        if x is not None:
             print(convert(x))
+
+        print()
 
 
 if __name__ == '__main__':
