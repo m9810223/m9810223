@@ -44,7 +44,7 @@
 </tbody>
 </table>
 
-![""](https://komarev.com/ghpvc/?username=m9810223&color=orange&style=for-the-badge)
+![""](https://komarev.com/ghpvc/?username=m9810223&color=orange&style=social)
 
 <!--
 <p align="left">
