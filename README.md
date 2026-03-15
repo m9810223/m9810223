@@ -1,4 +1,4 @@
-# Merged Contributions
+# Contributions
 
 [![microsoft/playwright-python](https://img.shields.io/github/issues-search/microsoft/playwright-python?style=for-the-badge&label=microsoft/playwright-python&query=is%3Amerged%20author%3Am9810223)](https://github.com/microsoft/playwright-python/pulls?q=is%3Amerged%20author%3Am9810223)
 
