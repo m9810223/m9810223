@@ -1,5 +1,7 @@
 # Contributions
 
+![""](https://komarev.com/ghpvc/?username=m9810223&color=orange&style=social)
+
 [![beancount/fava](https://img.shields.io/github/issues-search/beancount/fava?style=social&label=beancount/fava&query=is%3Amerged%20author%3Am9810223)](https://github.com/beancount/fava/pulls?q=is%3Amerged%20author%3Am9810223)
 
 [![encode/httpcore](https://img.shields.io/github/issues-search/encode/httpcore?style=social&label=encode/httpcore&query=is%3Amerged%20author%3Am9810223)](https://github.com/encode/httpcore/pulls?q=is%3Amerged%20author%3Am9810223)
@@ -39,12 +41,10 @@
                         src="https://github-readme-stats.vercel.app/api/pin/?username=m9810223&repo=pymatrix-ss&theme=github_dark" /></a>
 -->
 
-</td>
+<!-- </td>
 </tr>
 </tbody>
-</table>
-
-![""](https://komarev.com/ghpvc/?username=m9810223&color=orange&style=social)
+</table> -->
 
 <!--
 <p align="left">
