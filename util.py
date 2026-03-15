@@ -1,6 +1,23 @@
 from urllib.parse import quote
 
 
+CONTRIBUTIONS = [
+    'microsoft/playwright-python',
+    'microsoft/playwright-pytest',
+    None,
+    'fastapi/typer',
+    'encode/httpcore',
+    'psf/cachecontrol',
+    None,
+    'pydantic/pydantic-settings',
+    'pdm-project/pdm',
+    None,
+    'rabbitmq/tls-gen',
+    'rabbitmq/rabbitmq-website',
+    None,
+    'likec4/likec4',
+    'beancount/fava',
+]
 AUTHOR = 'm9810223'
 QUERY = quote(f'author:{AUTHOR} is:merged')
 GH = 'https://github.com'
@@ -8,54 +25,37 @@ SH_GH = 'https://img.shields.io/github'
 STYLE = 'for-the-badge'
 
 
-def md_img(src: str, *, alt: str = ''):
-    return f'![{alt}]({src})'
-
-
-def md_a(href: str, *, text: str = ''):
-    return f'[{text}]({href})'
-
-
-def md_li(content: str):
-    return f'- {content}'
-
-
-def convert(user_repo: str):
+def convert(user_repo: str) -> str:
     pathname = f'{SH_GH}/issues-search/{user_repo}'
     search = f'?style={STYLE}&label={quote(user_repo)}&query={QUERY}'
     src = f'{pathname}{search}'
-    img = md_img(src, alt=user_repo)
+    img = _md_img(src, alt=user_repo)
     href = f'{GH}/{user_repo}/pulls?q={QUERY}'
-    a = md_a(href, text=img)
+    a = _md_a(href, text=img)
     return a
 
-    li = md_li(a)
+    li = _md_li(a)
     return li
 
 
-def main():
-    contributions = [
-        'microsoft/playwright-python',
-        'microsoft/playwright-pytest',
-        None,
-        'fastapi/typer',
-        'encode/httpcore',
-        'psf/cachecontrol',
-        None,
-        'pydantic/pydantic-settings',
-        'pdm-project/pdm',
-        None,
-        'rabbitmq/tls-gen',
-        'rabbitmq/rabbitmq-website',
-        None,
-        'likec4/likec4',
-        'beancount/fava',
-    ]
-    for x in contributions:
+def main() -> None:
+    for x in CONTRIBUTIONS:
         if x is not None:
             print(convert(x))
 
         print()
+
+
+def _md_img(src: str, *, alt: str = '') -> str:
+    return f'![{alt}]({src})'
+
+
+def _md_a(href: str, *, text: str = '') -> str:
+    return f'[{text}]({href})'
+
+
+def _md_li(content: str) -> str:
+    return f'- {content}'
 
 
 if __name__ == '__main__':
