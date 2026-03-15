@@ -16,7 +16,6 @@
 [![likec4/likec4](https://img.shields.io/github/issues-search/likec4/likec4?style=for-the-badge&label=likec4/likec4&query=author%3Am9810223%20is%3Amerged)](https://github.com/likec4/likec4/pulls?q=author%3Am9810223%20is%3Amerged)
 [![beancount/fava](https://img.shields.io/github/issues-search/beancount/fava?style=for-the-badge&label=beancount/fava&query=author%3Am9810223%20is%3Amerged)](https://github.com/beancount/fava/pulls?q=author%3Am9810223%20is%3Amerged)
 
-
 <!--
 <table width="100%" style="table-layout:fixed">
     <tbody>
@@ -39,7 +38,7 @@
 </tbody>
 </table>
 
-![](https://komarev.com/ghpvc/?username=m9810223&color=orange&style=for-the-badge)
+![""](https://komarev.com/ghpvc/?username=m9810223&color=orange&style=for-the-badge)
 
 <!--
 <p align="left">
