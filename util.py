@@ -6,21 +6,17 @@ QUERY = quote(f'is:merged author:{AUTHOR}')
 GH = 'https://github.com'
 
 CONTRIBUTIONS = [
-    'microsoft/playwright-python',
-    'microsoft/playwright-pytest',
-    None,
-    'fastapi/typer',
-    'encode/httpcore',
-    'psf/cachecontrol',
-    None,
-    'pydantic/pydantic-settings',
-    'pdm-project/pdm',
-    None,
-    'rabbitmq/tls-gen',
-    'rabbitmq/rabbitmq-website',
-    None,
-    'likec4/likec4',
-    'beancount/fava',
+    'microsoft/playwright-python',  # refine / fix
+    'fastapi/typer',  # fix
+    'pydantic/pydantic-settings',  # fix(feat)
+    'likec4/likec4',  # feat
+    'encode/httpcore',  # refine
+    'rabbitmq/tls-gen',  # chore(fix)
+    'beancount/fava',  # chore
+    'psf/cachecontrol',  # chore
+    'rabbitmq/rabbitmq-website',  # docs(fix)
+    'pdm-project/pdm',  # docs(fix)
+    'microsoft/playwright-pytest',  # typo
 ]
 
 SH_GH = 'https://img.shields.io/github'
