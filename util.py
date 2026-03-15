@@ -5,6 +5,7 @@ AUTHOR = 'm9810223'
 QUERY = quote(f'author:{AUTHOR} is:merged')
 GH = 'https://github.com'
 SH_GH = 'https://img.shields.io/github'
+STYLE = 'for-the-badge'
 
 
 def md_img(src: str, *, alt: str = ''):
@@ -21,12 +22,13 @@ def md_li(content: str):
 
 def convert(user_repo: str):
     pathname = f'{SH_GH}/issues-search/{user_repo}'
-    search = f'?style=for-the-badge&label={quote(user_repo)}&query={QUERY}'
+    search = f'?style={STYLE}&label={quote(user_repo)}&query={QUERY}'
     src = f'{pathname}{search}'
     img = md_img(src, alt=user_repo)
     href = f'{GH}/{user_repo}/pulls?q={QUERY}'
     a = md_a(href, text=img)
     return a
+
     li = md_li(a)
     return li
 
