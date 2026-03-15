@@ -1,5 +1,6 @@
 from urllib.parse import quote
 
+
 AUTHOR = 'm9810223'
 QUERY = quote(f'is:merged author:{AUTHOR}')
 GH = 'https://github.com'
