@@ -1,26 +1,26 @@
 # Contributions
 
-[![microsoft/playwright-python](https://img.shields.io/github/issues-search/microsoft/playwright-python?style=for-the-badge&label=microsoft/playwright-python&query=is%3Amerged%20author%3Am9810223)](https://github.com/microsoft/playwright-python/pulls?q=is%3Amerged%20author%3Am9810223)
+[![microsoft/playwright-python](https://img.shields.io/github/issues-search/microsoft/playwright-python?style=social&label=microsoft/playwright-python&query=is%3Amerged%20author%3Am9810223)](https://github.com/microsoft/playwright-python/pulls?q=is%3Amerged%20author%3Am9810223)
 
-[![fastapi/typer](https://img.shields.io/github/issues-search/fastapi/typer?style=for-the-badge&label=fastapi/typer&query=is%3Amerged%20author%3Am9810223)](https://github.com/fastapi/typer/pulls?q=is%3Amerged%20author%3Am9810223)
+[![fastapi/typer](https://img.shields.io/github/issues-search/fastapi/typer?style=social&label=fastapi/typer&query=is%3Amerged%20author%3Am9810223)](https://github.com/fastapi/typer/pulls?q=is%3Amerged%20author%3Am9810223)
 
-[![pydantic/pydantic-settings](https://img.shields.io/github/issues-search/pydantic/pydantic-settings?style=for-the-badge&label=pydantic/pydantic-settings&query=is%3Amerged%20author%3Am9810223)](https://github.com/pydantic/pydantic-settings/pulls?q=is%3Amerged%20author%3Am9810223)
+[![pydantic/pydantic-settings](https://img.shields.io/github/issues-search/pydantic/pydantic-settings?style=social&label=pydantic/pydantic-settings&query=is%3Amerged%20author%3Am9810223)](https://github.com/pydantic/pydantic-settings/pulls?q=is%3Amerged%20author%3Am9810223)
 
-[![likec4/likec4](https://img.shields.io/github/issues-search/likec4/likec4?style=for-the-badge&label=likec4/likec4&query=is%3Amerged%20author%3Am9810223)](https://github.com/likec4/likec4/pulls?q=is%3Amerged%20author%3Am9810223)
+[![likec4/likec4](https://img.shields.io/github/issues-search/likec4/likec4?style=social&label=likec4/likec4&query=is%3Amerged%20author%3Am9810223)](https://github.com/likec4/likec4/pulls?q=is%3Amerged%20author%3Am9810223)
 
-[![encode/httpcore](https://img.shields.io/github/issues-search/encode/httpcore?style=for-the-badge&label=encode/httpcore&query=is%3Amerged%20author%3Am9810223)](https://github.com/encode/httpcore/pulls?q=is%3Amerged%20author%3Am9810223)
+[![encode/httpcore](https://img.shields.io/github/issues-search/encode/httpcore?style=social&label=encode/httpcore&query=is%3Amerged%20author%3Am9810223)](https://github.com/encode/httpcore/pulls?q=is%3Amerged%20author%3Am9810223)
 
-[![rabbitmq/tls-gen](https://img.shields.io/github/issues-search/rabbitmq/tls-gen?style=for-the-badge&label=rabbitmq/tls-gen&query=is%3Amerged%20author%3Am9810223)](https://github.com/rabbitmq/tls-gen/pulls?q=is%3Amerged%20author%3Am9810223)
+[![rabbitmq/tls-gen](https://img.shields.io/github/issues-search/rabbitmq/tls-gen?style=social&label=rabbitmq/tls-gen&query=is%3Amerged%20author%3Am9810223)](https://github.com/rabbitmq/tls-gen/pulls?q=is%3Amerged%20author%3Am9810223)
 
-[![beancount/fava](https://img.shields.io/github/issues-search/beancount/fava?style=for-the-badge&label=beancount/fava&query=is%3Amerged%20author%3Am9810223)](https://github.com/beancount/fava/pulls?q=is%3Amerged%20author%3Am9810223)
+[![beancount/fava](https://img.shields.io/github/issues-search/beancount/fava?style=social&label=beancount/fava&query=is%3Amerged%20author%3Am9810223)](https://github.com/beancount/fava/pulls?q=is%3Amerged%20author%3Am9810223)
 
-[![psf/cachecontrol](https://img.shields.io/github/issues-search/psf/cachecontrol?style=for-the-badge&label=psf/cachecontrol&query=is%3Amerged%20author%3Am9810223)](https://github.com/psf/cachecontrol/pulls?q=is%3Amerged%20author%3Am9810223)
+[![psf/cachecontrol](https://img.shields.io/github/issues-search/psf/cachecontrol?style=social&label=psf/cachecontrol&query=is%3Amerged%20author%3Am9810223)](https://github.com/psf/cachecontrol/pulls?q=is%3Amerged%20author%3Am9810223)
 
-[![rabbitmq/rabbitmq-website](https://img.shields.io/github/issues-search/rabbitmq/rabbitmq-website?style=for-the-badge&label=rabbitmq/rabbitmq-website&query=is%3Amerged%20author%3Am9810223)](https://github.com/rabbitmq/rabbitmq-website/pulls?q=is%3Amerged%20author%3Am9810223)
+[![rabbitmq/rabbitmq-website](https://img.shields.io/github/issues-search/rabbitmq/rabbitmq-website?style=social&label=rabbitmq/rabbitmq-website&query=is%3Amerged%20author%3Am9810223)](https://github.com/rabbitmq/rabbitmq-website/pulls?q=is%3Amerged%20author%3Am9810223)
 
-[![pdm-project/pdm](https://img.shields.io/github/issues-search/pdm-project/pdm?style=for-the-badge&label=pdm-project/pdm&query=is%3Amerged%20author%3Am9810223)](https://github.com/pdm-project/pdm/pulls?q=is%3Amerged%20author%3Am9810223)
+[![pdm-project/pdm](https://img.shields.io/github/issues-search/pdm-project/pdm?style=social&label=pdm-project/pdm&query=is%3Amerged%20author%3Am9810223)](https://github.com/pdm-project/pdm/pulls?q=is%3Amerged%20author%3Am9810223)
 
-[![microsoft/playwright-pytest](https://img.shields.io/github/issues-search/microsoft/playwright-pytest?style=for-the-badge&label=microsoft/playwright-pytest&query=is%3Amerged%20author%3Am9810223)](https://github.com/microsoft/playwright-pytest/pulls?q=is%3Amerged%20author%3Am9810223)
+[![microsoft/playwright-pytest](https://img.shields.io/github/issues-search/microsoft/playwright-pytest?style=social&label=microsoft/playwright-pytest&query=is%3Amerged%20author%3Am9810223)](https://github.com/microsoft/playwright-pytest/pulls?q=is%3Amerged%20author%3Am9810223)
 
 <!--
 <table width="100%" style="table-layout:fixed">

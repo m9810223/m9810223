@@ -1,4 +1,5 @@
 from urllib.parse import quote
+from typing import Literal
 
 
 AUTHOR = 'm9810223'
@@ -20,7 +21,7 @@ CONTRIBUTIONS = [
 ]
 
 SH_GH = 'https://img.shields.io/github'
-STYLE = 'for-the-badge'
+STYLE: Literal['flat', 'flat-square', 'plastic', 'for-the-badge', 'social'] = 'social'
 
 
 def convert(user_repo: str) -> str:
