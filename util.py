@@ -1,5 +1,8 @@
 from urllib.parse import quote
 
+AUTHOR = 'm9810223'
+QUERY = quote(f'is:merged author:{AUTHOR}')
+GH = 'https://github.com'
 
 CONTRIBUTIONS = [
     'microsoft/playwright-python',
@@ -18,9 +21,7 @@ CONTRIBUTIONS = [
     'likec4/likec4',
     'beancount/fava',
 ]
-AUTHOR = 'm9810223'
-QUERY = quote(f'author:{AUTHOR} is:merged')
-GH = 'https://github.com'
+
 SH_GH = 'https://img.shields.io/github'
 STYLE = 'for-the-badge'
 
